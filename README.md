@@ -1,6 +1,7 @@
 # This code was created as the final assignment (culminating) for ICS4UA: AP Computer Science.
 ### Language: Java
 An "application" designed to assist staff serving food in school cafeterias to easily create transactions and manage various operations at ease without the use of multiple applications. Culminating project for ICS4UA in Java using Eclipse.
+
 ```java
 package culminatingProject;
 
