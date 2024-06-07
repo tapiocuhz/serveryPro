@@ -52,16 +52,14 @@ public class Culminating {
         ArrayList<String> authorizedAdministrators = new ArrayList<>();
         ArrayList<String> toDoList = new ArrayList<>();
 
-        authorizedEmployees.add("ayaan.shaikh.107@my.werbr.ca");
-        authorizedEmployees.add("samiha.syed.313@my.werbr.ca");
+        authorizedEmployees.add("ayaan.shaikh.107@gmail.ca");
         authorizedEmployees.add("john.doe@gmail.com");
         authorizedEmployees.add("*");
 
-        authorizedAdministrators.add("ayaan.shaikh.107@my.werbr.ca");
-        authorizedAdministrators.add("samiha.syed.313@my.werbr.ca");
+        authorizedAdministrators.add("ayaan.shaikh.107@gmail.ca");
         authorizedAdministrators.add("*");
 
-        String employeePassword = "bishopreding123";
+        String employeePassword = "serverypro123";
 
         System.out.println("_______  _______  ______    __   __  _______  ______    __   __  ");
         System.out.println("|       ||       ||    _ |  |  | |  ||       ||    _ |  |  | |  |");
