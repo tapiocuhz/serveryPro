@@ -50,11 +50,11 @@ public class Culminating {
         ArrayList<String> authorizedAdministrators = new ArrayList<>();
         ArrayList<String> toDoList = new ArrayList<>();
 
-        authorizedEmployees.add("ayaan.shaikh.107@gmail.ca");
+        authorizedEmployees.add("ayaan@gmail.ca");
         authorizedEmployees.add("john.doe@gmail.com");
         authorizedEmployees.add("*");
 
-        authorizedAdministrators.add("ayaan.shaikh.107@gmail.ca");
+        authorizedAdministrators.add("ayaan@gmail.ca");
         authorizedAdministrators.add("*");
 
         String employeePassword = "serverypro123";
